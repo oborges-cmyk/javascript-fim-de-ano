@@ -8,3 +8,5 @@ function calculoImc(peso,altura) {
 
 console.log("IMC para 70 kg e 1.75m: " +
 calculoImc(70, 1.75));
+console.log("IMC da Ana: " +
+calculoImc(55, 1.60));
