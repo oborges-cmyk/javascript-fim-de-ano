@@ -1,5 +1,5 @@
 function  greetMe(meuNome) {
-    // Aparece no site
+    // Exibe uma mensagem em uma janela pop-up
     alert ("Olá " + meuNome + ", seja bem-vindo(a)!");
 }
 
